@@ -1,0 +1,20 @@
+{
+  "cloudflare": [
+    {
+      "authentication": {
+        "api_token": "yvtg7w1rGj-TDyPKvpnGEM6-ALZJY-IUbgxMZZ7e"
+      },
+      "zone_id": "4c9a18d00ed98275f2edb618ef2f2a15",
+      "subdomains": [
+        {
+          "name": "horm",
+          "proxied": false
+        }
+      ]
+    }
+  ],
+  "a": true,
+  "aaaa": true,
+  "purgeUnknownRecords": false,
+  "ttl": 300
+}
